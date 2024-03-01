@@ -1,5 +1,5 @@
 ### Student Management System
-## A dynamuc Webpage 
+## A dynamic Webpage 
 ## Tools Used
 * JSP
 * Servlet
